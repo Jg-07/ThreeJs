@@ -1,0 +1,6 @@
+- Install Vite App and THREE.js from Npm installer @done
+- Setting up the scene, camera & renderer @done
+- Creating a plane
+- Modify to taste with dat.gui
+- Add hover effect
+- Add HTML and integreate with js
